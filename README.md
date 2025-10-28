@@ -33,6 +33,12 @@ Incluye **filtros de calidad por profundidad**, **umbral visual por bps**, **ale
 
 ---
 
+<p align="center">
+  <img src="./Screen.png" alt="screen="900">
+</p>
+
+---
+
 ## ¿Cómo funciona?
 
 1. Para cada **símbolo** seleccionado, consulta el **order book** (límite 5 niveles) en cada exchange.
