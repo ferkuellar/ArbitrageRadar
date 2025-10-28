@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./arbitrage.png" alt="Simple Arbitrage Radar — UI" width="900">
+</p>
+
 # Simple Arbitrage Radar **PLUS** (Spot)
 
 **Binance · Bybit · OKX · BingX — Solo lectura, NO ejecuta órdenes**
